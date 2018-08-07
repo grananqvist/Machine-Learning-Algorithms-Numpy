@@ -5,3 +5,6 @@ Simple implementations of Machine Learning algorithms using only numpy with visu
 Implemented:  
  * Linear regression
  * Logistic regression
+ * Naive-Bayes classifier
+ * K-means
+ * kNN
