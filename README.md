@@ -8,3 +8,6 @@ Implemented:
  * Naive-Bayes classifier
  * K-means
  * kNN
+ * PCA
+ * SVM
+
