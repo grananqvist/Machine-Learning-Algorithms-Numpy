@@ -44,7 +44,7 @@ class PGLearner:
     DECAY_RATE = 0.99
 
     # load existing model or not
-    RESUME = False
+    RESUME = True
 
     # number of pixels in the game
     TOTAL_PIXELS = 80*80
